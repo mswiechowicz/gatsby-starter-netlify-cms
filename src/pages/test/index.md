@@ -1,6 +1,7 @@
 ---
-templateKey: 'test-page'
+templateKey: test-page
 path: /test
 title: About our values
+templateKeyTest: default not working
 ---
-body
+body should work right now
