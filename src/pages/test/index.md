@@ -1,5 +1,6 @@
 ---
-title: siema e
-templateKeyTest: default
+templateKey: 'test-page'
+path: /test
+title: About our values
 ---
-should it work right nowee
+body
