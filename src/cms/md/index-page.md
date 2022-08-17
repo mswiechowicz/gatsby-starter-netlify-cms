@@ -1,0 +1,4 @@
+---
+testText: Testowy text
+---
+body
