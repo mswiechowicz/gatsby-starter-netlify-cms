@@ -1,4 +1,4 @@
 ---
-testText: Testowy text
+testText: Halo
 ---
 body
